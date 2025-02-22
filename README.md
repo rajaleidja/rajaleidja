@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer... learning programmer
 ---------------------------------
 
-I have been learning to code since 6th grade. I love computers, IT, programming video games and music. I started learning programming in 6th grade, my first programming language was Python. It was a course at the University of Tartu (Estonia). The main goal was to create a game in Python. After that I studied programming, web development, programming languages, games on my own. I tried C++, C#, html, css, js. Tried wordpress when I was in 10th grade. One of my projects is still running (nv.noortek.ee). I studied C language at Taltech (Tallinn University of Technology). Now I study in Kood/Jõhvi and learn Golang. I'm also taking different courses, for example from Cisco. I am interested in game development and cybersecurity.
+I have been learning to code since 6th grade. I love computers, IT, programming video games and music. I started learning programming in 6th grade, my first programming language was Python. It was a course at the University of Tartu (Estonia). The main goal was to create a game in Python. After that I studied programming, web development, programming languages, games on my own. I tried C++, C#, html, css, js. Tried wordpress when I was in 10th grade. One of my projects is still running (nv.noortek.ee). I studied C language at Taltech (Tallinn University of Technology). Now I study in Kood/Jõhvi and learn JavaScript. I'm also taking different courses, for example from Cisco. I am interested in game development and cybersecurity.
 
 * ✉️  You can contact me at [n.strekalovwork@gmail.com](mailto:n.strekalovwork@gmail.com)
 
@@ -25,7 +25,7 @@ I have been learning to code since 6th grade. I love computers, IT, programming 
 ### <div align="center"> 👨‍💻 What now? Now... 🚀</div>  
   
 
-- 🔭 I’m currently learning golang  
+- 🔭 I’m currently learning JS 
   
 
 - 🌱 I’m interested in GameDev and Cybersecurity  
