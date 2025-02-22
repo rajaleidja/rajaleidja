@@ -98,7 +98,11 @@ I have been learning to code since 6th grade. I love computers, IT, programming 
   
 
 <br/>  
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Vcdbi5o470i9FACaZO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CodeRower-coderower-Vcdbi5o470i9FACaZO">via GIPHY</a></p>
+
+GIF
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rajaleidja&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
