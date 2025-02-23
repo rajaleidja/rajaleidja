@@ -7,6 +7,10 @@ You can click the Preview link to take a look at your changes.
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Strekalov
 ========================================================================================================================================
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 Programmer... learning programmer
 ---------------------------------
 
@@ -99,10 +103,12 @@ I have been learning to code since 6th grade. I love computers, IT, programming 
 
 <br/>  
 
-GIF
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZndWFsb2FnNnE5N3VjM3luOGp3ZWliMWVudjZ6dHk3NjR2MDlpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif" width="600" height="300"/>
 </div>
+
+
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rajaleidja&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -117,6 +123,8 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
+ЦИТАТЫ
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
 
 <br/>  
