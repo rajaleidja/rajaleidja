@@ -14,7 +14,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer... learning programmer
 ---------------------------------
 
-I have been learning to code since 6th grade. I love computers, IT, programming video games and music. I started learning programming in 6th grade, my first programming language was Python. It was a course at the University of Tartu (Estonia). The main goal was to create a game in Python. After that I studied programming, web development, programming languages, games on my own. I tried C++, C#, html, css, js. Tried wordpress when I was in 10th grade. One of my projects is still running (nv.noortek.ee). I studied C language at Taltech (Tallinn University of Technology). Now I study in Kood/Jõhvi and learn JavaScript. I'm also taking different courses, for example from Cisco. I am interested in game development and cybersecurity.
+I have been learning to code since 6th grade. I love computers, IT, programming, video games and music. I started learning programming in 6th grade, my first programming language was Python. It was a course at the University of Tartu (Estonia). The main goal was to create a game in Python. After that I studied programming, web development, programming languages, games on my own. I tried C++, C#, html, css, js. Tried wordpress when I was in 10th grade. One of my projects is still running (nv.noortek.ee). I studied C language at Taltech (Tallinn University of Technology). Now I study in Kood/Jõhvi and learn JavaScript. I'm also taking different courses, for example from Cisco. I am interested in game development and cybersecurity.
+I speak English, Estonian and Russian languages.
+Feel free to ask me anything, chat with me or send friend requests in social media.
 
 * ✉️  You can contact me at [n.strekalovwork@gmail.com](mailto:n.strekalovwork@gmail.com)
 
@@ -45,7 +47,8 @@ I have been learning to code since 6th grade. I love computers, IT, programming 
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table>
+  <tr><td valign="top" width="33%">
 
 
 
@@ -55,9 +58,12 @@ I have been learning to code since 6th grade. I love computers, IT, programming 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </div>
 
 </td><td valign="top" width="33%">
+
+
 
 
 
@@ -68,6 +74,9 @@ I have been learning to code since 6th grade. I love computers, IT, programming 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50" /></a> 
+<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -83,6 +92,17 @@ I have been learning to code since 6th grade. I love computers, IT, programming 
 </div>
 
 </td></tr></table>  
+
+<h3 align="left">Other Languages and Tools I used:</h3>
+<div align="left"> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>  
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a> 
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+</div>
 
 <br/>  
 
@@ -125,11 +145,9 @@ I have been learning to code since 6th grade. I love computers, IT, programming 
 - [Презентация Made By Google: представили линейку Pixel 9, Pixel Watch 3 и наушники Pixel Buds Pro 2](https://habr.com/ru/articles/835836/?utm_campaign=835836&utm_source=habrahabr&utm_medium=rss)
 - [Смотрим на обновлённые умные колонки SberBoom](https://habr.com/ru/articles/834302/?utm_campaign=834302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 
 <br/>  
 
-ЦИТАТЫ
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
 
