@@ -153,8 +153,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
-<div align="center">
+<!--
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+-->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
   </div> 
 
 <br/>  
