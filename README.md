@@ -106,9 +106,9 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 </div>
 
 <br/>  
-
+<div align="center">
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+</div>  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/rajaleidja" target="_blank">
@@ -132,8 +132,10 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rajaleidja&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
+
+<br/>  
+<div align="center"><img src="https://www.codewars.com/users/nekitch13/badges/large"/></div> 
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
@@ -145,10 +147,9 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
-
+<div align="center">
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-  
-<img src="https://www.codewars.com/users/nekitch13/badges/large"/>
+  </div> 
 
 <br/>  
 
