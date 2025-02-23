@@ -94,7 +94,7 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 </td></tr></table>  
 
 <h3 align="left">Other Languages and Tools I used:</h3>
-<div align="left"> 
+<div align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>  
@@ -106,9 +106,15 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 </div>
 
 <br/>  
+
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+
 <div align="center">
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>  
+<img src="https://readme-jokes.vercel.app/api" width="600" height="300"/>
+ </div>
+
+ <br/>
+ 
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/rajaleidja" target="_blank">
