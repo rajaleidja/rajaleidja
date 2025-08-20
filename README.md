@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Итоги Made by Google: смартфоны Pixel 10, умные часы, наушники и аналог MagSafe](https://habr.com/ru/articles/939164/?utm_campaign=939164&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как использовать Google Gemini в бете Xcode 26](https://habr.com/ru/articles/929756/?utm_campaign=929756&utm_source=habrahabr&utm_medium=rss)
 - [Интервью с Егором Денисовым-Бланчем: кто такие «инженеры-призраки» и как с ними бороться](https://habr.com/ru/articles/869694/?utm_campaign=869694&utm_source=habrahabr&utm_medium=rss)
 - [Sora от OpenAI вышла: обзор, примеры видео и ограничения](https://habr.com/ru/articles/865210/?utm_campaign=865210&utm_source=habrahabr&utm_medium=rss)
 - [Лампочки, выключатели, реле: смотрим на обновлённую линейку умных гаджетов от «Яндекса»](https://habr.com/ru/articles/859622/?utm_campaign=859622&utm_source=habrahabr&utm_medium=rss)
-- [Презентация Made By Google: представили линейку Pixel 9, Pixel Watch 3 и наушники Pixel Buds Pro 2](https://habr.com/ru/articles/835836/?utm_campaign=835836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
