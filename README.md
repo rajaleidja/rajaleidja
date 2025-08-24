@@ -31,7 +31,7 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 ### <div align="center"> 👨‍💻 What now? Now... 🚀</div>  
   
 
-- 🔭 I’m currently learning JS 
+- 🔭 I’m currently learning Cybersecurity 
   
 
 - 🌱 I’m interested in GameDev and Cybersecurity  
