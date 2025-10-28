@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Итоги презентации «Алиса, что нового?»: Алиса AI, агенты и носимые устройства с нейросетями](https://habr.com/ru/articles/960960/?utm_campaign=960960&utm_source=habrahabr&utm_medium=rss)
 - [Вышел браузер ChatGPT Atlas: тестируем нейропоиск и пробуем онлайн-покупки в агентском режиме](https://habr.com/ru/articles/958878/?utm_campaign=958878&utm_source=habrahabr&utm_medium=rss)
 - [TerraMaster F8 SDD Plus: смотрим на китайский NAS с SSD-накопителями](https://habr.com/ru/articles/942600/?utm_campaign=942600&utm_source=habrahabr&utm_medium=rss)
 - [Итоги Made by Google: смартфоны Pixel 10, умные часы, наушники и аналог MagSafe](https://habr.com/ru/articles/939164/?utm_campaign=939164&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как использовать Google Gemini в бете Xcode 26](https://habr.com/ru/articles/929756/?utm_campaign=929756&utm_source=habrahabr&utm_medium=rss)
-- [Интервью с Егором Денисовым-Бланчем: кто такие «инженеры-призраки» и как с ними бороться](https://habr.com/ru/articles/869694/?utm_campaign=869694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
