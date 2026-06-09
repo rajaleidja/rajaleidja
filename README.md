@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» выпустил «Дропс» — наушники с Алисой: как они работают и чего им не хватает](https://habr.com/ru/articles/1045316/?utm_campaign=1045316&utm_source=habrahabr&utm_medium=rss)
 - [Я неделю ездил на электромобиле UMO 5, и вот что я хочу про него рассказать](https://habr.com/ru/articles/1041176/?utm_campaign=1041176&utm_source=habrahabr&utm_medium=rss)
 - [CyberBrick Time-lapse Kit: как снять плавный таймлапс с 3D-принтерами от Bambu Lab](https://habr.com/ru/articles/1017402/?utm_campaign=1017402&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Xcode — худшее профессиональное ПО, с которым я когда-либо работал](https://habr.com/ru/articles/969470/?utm_campaign=969470&utm_source=habrahabr&utm_medium=rss)
 - [Итоги презентации «Алиса, что нового?»: Алиса AI, агенты и носимые устройства с нейросетями](https://habr.com/ru/articles/960960/?utm_campaign=960960&utm_source=habrahabr&utm_medium=rss)
-- [Вышел браузер ChatGPT Atlas: тестируем нейропоиск и пробуем онлайн-покупки в агентском режиме](https://habr.com/ru/articles/958878/?utm_campaign=958878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
