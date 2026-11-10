@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Rockstar продаёт реальный спортивный автомобиль Grotti Cheetah из GTA VI](https://habr.com/ru/articles/1105858/?utm_campaign=1105858&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI и ModRetro выпустили портативную консоль для запуска игр, созданных с помощью Codex](https://habr.com/ru/articles/1105766/?utm_campaign=1105766&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: во сколько обходится AI‑разработка сайта в зависимости от используемых JavaScript‑фреймворков](https://habr.com/ru/articles/1105740/?utm_campaign=1105740&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи MacBook Pro с OLED‑экраном жалуются на усталость глаз и тошноту при работе с ним](https://habr.com/ru/articles/1105282/?utm_campaign=1105282&utm_source=habrahabr&utm_medium=rss)
 - [В iOS нашли список фраз, которые встроенная клавиатура не подсказывает во время набора](https://habr.com/ru/articles/1105024/?utm_campaign=1105024&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатный видеоредактор Edits от Instagram* стал доступен для macOS](https://habr.com/ru/articles/1104214/?utm_campaign=1104214&utm_source=habrahabr&utm_medium=rss)
-- [В Китае представили зубную щётку, которая убивает бактерии электрическими микрозарядами](https://habr.com/ru/articles/1104180/?utm_campaign=1104180&utm_source=habrahabr&utm_medium=rss)
-- [Canva сокращает 22% штата: все сокращённые получат шесть окладов, страховку на год, MacBook и грант на открытие бизнеса](https://habr.com/ru/articles/1104154/?utm_campaign=1104154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
