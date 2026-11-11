@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик подключил AI‑агента к 32-летнему Jeep Cherokee для диагностики](https://habr.com/ru/articles/1106830/?utm_campaign=1106830&utm_source=habrahabr&utm_medium=rss)
+- [Shopify отказалась от React Native в пользу Swift и Kotlin](https://habr.com/ru/articles/1106734/?utm_campaign=1106734&utm_source=habrahabr&utm_medium=rss)
 - [Amazon представила устройства для патрулирования территории: домашнего дрона и ровера для бизнеса](https://habr.com/ru/articles/1106378/?utm_campaign=1106378&utm_source=habrahabr&utm_medium=rss)
 - [В Японии напечатали ноги робота с гибкими «мышцами» и связками из TPU](https://habr.com/ru/articles/1106346/?utm_campaign=1106346&utm_source=habrahabr&utm_medium=rss)
 - [Для камер Canon выпустили кастомную прошивку с пресетами цветокоррекции в стиле популярных плёнок](https://habr.com/ru/articles/1106256/?utm_campaign=1106256&utm_source=habrahabr&utm_medium=rss)
-- [Creality выпустила mBox — детский 3D‑принтер со встроенными AI‑инструментами для генерации моделей](https://habr.com/ru/articles/1106184/?utm_campaign=1106184&utm_source=habrahabr&utm_medium=rss)
-- [Rockstar продаёт реальный спортивный автомобиль Grotti Cheetah из GTA VI](https://habr.com/ru/articles/1105858/?utm_campaign=1105858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
