@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Claude теперь можно подключать к видеозвонкам в Google Meet](https://habr.com/ru/articles/1107366/?utm_campaign=1107366&utm_source=habrahabr&utm_medium=rss)
+- [Sandflow открыла датасет из 106 тысяч 3D‑моделей](https://habr.com/ru/articles/1107354/?utm_campaign=1107354&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики эмулятора UTM запустили базу совместимых игр с AI‑агентом для генерации патчей](https://habr.com/ru/articles/1107346/?utm_campaign=1107346&utm_source=habrahabr&utm_medium=rss)
 - [Meta* представила датасет для восстановления 3D-сцен по стереовидео](https://habr.com/ru/articles/1107334/?utm_campaign=1107334&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик протестировал, как разные AI‑сервисы создают сайты](https://habr.com/ru/articles/1107270/?utm_campaign=1107270&utm_source=habrahabr&utm_medium=rss)
-- [Boss Fight Books анонсировала книгу об истории консольных версий Doom и её запусков на разных устройствах](https://habr.com/ru/articles/1107252/?utm_campaign=1107252&utm_source=habrahabr&utm_medium=rss)
-- [Blackmagic представила микрофон со 108 капсюлями для записи пространственного звука](https://habr.com/ru/articles/1107112/?utm_campaign=1107112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
