@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В Китае 19-местный электрический самолёт CE-25A совершил первый пилотируемый полёт](https://habr.com/ru/articles/1107918/?utm_campaign=1107918&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик представил открытую USB‑плату с 3D‑лидаром для роботов и гаджетов](https://habr.com/ru/articles/1107902/?utm_campaign=1107902&utm_source=habrahabr&utm_medium=rss)
 - [Whoop запустила соцсеть для обмена данными о сне, нагрузке и восстановлении](https://habr.com/ru/articles/1107878/?utm_campaign=1107878&utm_source=habrahabr&utm_medium=rss)
 - [Claude теперь можно подключать к видеозвонкам в Google Meet](https://habr.com/ru/articles/1107366/?utm_campaign=1107366&utm_source=habrahabr&utm_medium=rss)
 - [Sandflow открыла датасет из 106 тысяч 3D‑моделей](https://habr.com/ru/articles/1107354/?utm_campaign=1107354&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики эмулятора UTM запустили базу совместимых игр с AI‑агентом для генерации патчей](https://habr.com/ru/articles/1107346/?utm_campaign=1107346&utm_source=habrahabr&utm_medium=rss)
-- [Meta* представила датасет для восстановления 3D-сцен по стереовидео](https://habr.com/ru/articles/1107334/?utm_campaign=1107334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
