@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Студия GFA Games закрывает онлайн‑шутер Pioner менее чем через год после выхода в ранний доступ](https://habr.com/ru/articles/1107976/?utm_campaign=1107976&utm_source=habrahabr&utm_medium=rss)
+- [Huawei анонсировала Sense G1 — собственный инвазивный датчик непрерывного мониторинга глюкозы](https://habr.com/ru/articles/1107962/?utm_campaign=1107962&utm_source=habrahabr&utm_medium=rss)
 - [В Китае 19-местный электрический самолёт CE-25A совершил первый пилотируемый полёт](https://habr.com/ru/articles/1107918/?utm_campaign=1107918&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил открытую USB‑плату с 3D‑лидаром для роботов и гаджетов](https://habr.com/ru/articles/1107902/?utm_campaign=1107902&utm_source=habrahabr&utm_medium=rss)
 - [Whoop запустила соцсеть для обмена данными о сне, нагрузке и восстановлении](https://habr.com/ru/articles/1107878/?utm_campaign=1107878&utm_source=habrahabr&utm_medium=rss)
-- [Claude теперь можно подключать к видеозвонкам в Google Meet](https://habr.com/ru/articles/1107366/?utm_campaign=1107366&utm_source=habrahabr&utm_medium=rss)
-- [Sandflow открыла датасет из 106 тысяч 3D‑моделей](https://habr.com/ru/articles/1107354/?utm_campaign=1107354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
