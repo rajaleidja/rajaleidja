@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Автономную Tesla Cybercab без руля теперь можно купить для личного пользования](https://habr.com/ru/articles/1108032/?utm_campaign=1108032&utm_source=habrahabr&utm_medium=rss)
+- [В браузере Opera для iOS появился режим сжатия веб‑страниц](https://habr.com/ru/articles/1108010/?utm_campaign=1108010&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов](https://habr.com/ru/articles/1107996/?utm_campaign=1107996&utm_source=habrahabr&utm_medium=rss)
 - [Студия GFA Games закрывает онлайн‑шутер Pioner менее чем через год после выхода в ранний доступ](https://habr.com/ru/articles/1107976/?utm_campaign=1107976&utm_source=habrahabr&utm_medium=rss)
 - [Huawei анонсировала Sense G1 — собственный инвазивный датчик непрерывного мониторинга глюкозы](https://habr.com/ru/articles/1107962/?utm_campaign=1107962&utm_source=habrahabr&utm_medium=rss)
-- [В Китае 19-местный электрический самолёт CE-25A совершил первый пилотируемый полёт](https://habr.com/ru/articles/1107918/?utm_campaign=1107918&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил открытую USB‑плату с 3D‑лидаром для роботов и гаджетов](https://habr.com/ru/articles/1107902/?utm_campaign=1107902&utm_source=habrahabr&utm_medium=rss)
-- [Whoop запустила соцсеть для обмена данными о сне, нагрузке и восстановлении](https://habr.com/ru/articles/1107878/?utm_campaign=1107878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
