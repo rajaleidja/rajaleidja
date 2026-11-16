@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Purism анонсировала Linux‑смартфон Librem 5 v2 с процессором RISC‑V](https://habr.com/ru/articles/1108548/?utm_campaign=1108548&utm_source=habrahabr&utm_medium=rss)
 - [Keychron представила трекбол T1 HE с регулировкой шара по трём осям](https://habr.com/ru/articles/1108086/?utm_campaign=1108086&utm_source=habrahabr&utm_medium=rss)
 - [Автономную Tesla Cybercab без руля теперь можно купить для личного пользования](https://habr.com/ru/articles/1108032/?utm_campaign=1108032&utm_source=habrahabr&utm_medium=rss)
 - [В браузере Opera для iOS появился режим сжатия веб‑страниц](https://habr.com/ru/articles/1108010/?utm_campaign=1108010&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов](https://habr.com/ru/articles/1107996/?utm_campaign=1107996&utm_source=habrahabr&utm_medium=rss)
-- [Студия GFA Games закрывает онлайн‑шутер Pioner менее чем через год после выхода в ранний доступ](https://habr.com/ru/articles/1107976/?utm_campaign=1107976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
