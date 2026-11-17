@@ -145,11 +145,11 @@ Feel free to ask me anything, chat with me or send friend requests in social med
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [BIQU представила умный стеллаж для филамента и конвейерный стол для принтеров Bambu Lab](https://habr.com/ru/articles/1108858/?utm_campaign=1108858&utm_source=habrahabr&utm_medium=rss)
+- [На Kickstarter анонсировали Retro Song Bird — плеер для прослушивания саундтреков с картриджей Game Boy](https://habr.com/ru/articles/1108748/?utm_campaign=1108748&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик собрал портативный считыватель 3,5-дюймовых дискет с передачей файлов по Wi‑Fi](https://habr.com/ru/articles/1108652/?utm_campaign=1108652&utm_source=habrahabr&utm_medium=rss)
 - [Purism анонсировала Linux‑смартфон Librem 5 v2 с процессором RISC‑V](https://habr.com/ru/articles/1108548/?utm_campaign=1108548&utm_source=habrahabr&utm_medium=rss)
 - [Keychron представила трекбол T1 HE с регулировкой шара по трём осям](https://habr.com/ru/articles/1108086/?utm_campaign=1108086&utm_source=habrahabr&utm_medium=rss)
-- [Автономную Tesla Cybercab без руля теперь можно купить для личного пользования](https://habr.com/ru/articles/1108032/?utm_campaign=1108032&utm_source=habrahabr&utm_medium=rss)
-- [В браузере Opera для iOS появился режим сжатия веб‑страниц](https://habr.com/ru/articles/1108010/?utm_campaign=1108010&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов](https://habr.com/ru/articles/1107996/?utm_campaign=1107996&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
